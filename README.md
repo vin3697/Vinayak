@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinayak Patil
 - 👀 I’m interested in ROBOTICS/AutunomousSystem/Automation
-- 🌱 I’m currently learning ROS/Computer-Vision
-- 💞️ I’m looking to collaborate on Vision/Perception in Machines 
+- 🌱 I’m currently learning ROS/Computer-Vision and wokring on a robot for vSLAM!!
+- 💞️ I’m looking to collaborate on Vision/Perception in Machines, Automation and Autonomous system!!
 - 📫 How to reach me via linkedIN! https://www.linkedin.com/in/vinayak-patil-b24137185
 
 <!---
