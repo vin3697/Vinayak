@@ -1,8 +1,8 @@
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m Vinayak Patil 
 - INFOTECH Master Student
-
- ##at    <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" />
+  
+   <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" />
 
 -    Better Guitarist and good footballer
 - 👀 I’m interested in ROBOTICS/AutunomousSystem/Automation
