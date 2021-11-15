@@ -18,4 +18,5 @@ You can click the Preview link to take a look at your changes.
    <a href="#" target="_blank">  </a>
    
 </p>
-![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin3697&show_icons=true&theme=radical)
+
+[Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin3697&show_icons=true&theme=radical)
