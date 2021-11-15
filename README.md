@@ -8,3 +8,4 @@
 vin3697/vin3697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin3697)](https://github.com/vin3697/github-readme-stats)
