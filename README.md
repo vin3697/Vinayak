@@ -32,6 +32,6 @@ You can click the Preview link to take a look at your changes.
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin3697&show_icons=true&theme=radical)
 
 
-##Learning is a continous process!!
+## Learning is a continous process!!
 
-https://user-images.githubusercontent.com/92587549/141854815-49a84ba9-4574-4920-bb57-08c5a304e745.mp4
+
