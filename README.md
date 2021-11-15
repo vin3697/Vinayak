@@ -11,5 +11,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> 
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+   <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+   <a href="#" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a>
+   <a href="#" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/> </a>
+   <a href="#" target="_blank">  </a>
+   <a href="#" target="_blank">  </a>
+   
 </p>
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin3697&show_icons=true&theme=radical)
