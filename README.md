@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-## 🚀 SkillSet:
+## 🚀 SkillSet
 <p align="left"> 
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
