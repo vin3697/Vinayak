@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on Vision/Perception in Machines, Automation and Autonomous system!!
 - 📫 How to reach me via linkedIN! https://www.linkedin.com/in/vinayak-patil-b24137185
 
-<img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" /> 
+   <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" /> 
 
 <!---
 vin3697/vin3697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
