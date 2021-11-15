@@ -1,5 +1,6 @@
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m Vinayak Patil
+- Better Guitarist and good footballer
 - 👀 I’m interested in ROBOTICS/AutunomousSystem/Automation
 - 🌱 I’m currently learning ROS/Computer-Vision and working on a robot for vSLAM!!
 - 💞️ I’m looking to collaborate on Vision/Perception in Machines, Automation and Autonomous system!!
@@ -13,6 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 SkillSet
 <p align="left"> 
+   <a href="#" target="_blank"> <img src="https://img.icons8.com/external-linector-lineal-color-linector/64/000000/external-guitar-stay-home-activities-linector-lineal-color-linector.png"/> </a>
+   <a href="#" target="_blank"> <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-football-players-sport-avatar-justicon-flat-justicon.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/nolan/64/matlab.png"/> </a>
