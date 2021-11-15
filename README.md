@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/64/000000/raspberry-pi.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-mathematics-education-wanicon-lineal-color-wanicon.png"/> </a>
-   <iframe src="https://giphy.com/embed/Zx0Ploq51axjKTZzgZ" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ubtech-happy-dancing-Zx0Ploq51axjKTZzgZ">via GIPHY</a></p>
    
    
 </p>
