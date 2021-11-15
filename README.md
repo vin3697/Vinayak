@@ -1,6 +1,6 @@
 ## 🙋‍♂️ About Me
 - 👋 Hi, I’m Vinayak Patil
-- Better Guitarist and good footballer
+-    Better Guitarist and good footballer
 - 👀 I’m interested in ROBOTICS/AutunomousSystem/Automation
 - 🌱 I’m currently learning ROS/Computer-Vision and working on a robot for vSLAM!!
 - 💞️ I’m looking to collaborate on Vision/Perception in Machines, Automation and Autonomous system!!
