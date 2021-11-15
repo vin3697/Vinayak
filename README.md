@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
    <a href="#" target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-deep-learning-data-science-becris-flat-becris.png"/></a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/nolan/64/electronics.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/color/48/000000/arduino.png"/> </a>
-   <a href="#" target="_blank"> <img src="https://img.icons8.com/office/16/000000/raspberry-pi.png"/> </a>
+   <a href="#" target="_blank"> <img src="https://img.icons8.com/color/64/000000/raspberry-pi.png"/> </a>
    <a href="#" target="_blank"> <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-mathematics-education-wanicon-lineal-color-wanicon.png"/> </a>
    <a href="#" target="_blank">  </a>
    
