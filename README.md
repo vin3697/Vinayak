@@ -2,16 +2,13 @@
 - 👋 Hi, I’m Vinayak Patil 
 - INFOTECH Master Student
   
-<img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" />
+    <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" />
 
 -    Better Guitarist and good footballer
 - 👀 I’m interested in ROBOTICS/AutunomousSystem/Automation
 - 🌱 I’m currently learning ROS/Computer-Vision and working on a robot for vSLAM!!
 - 💞️ I’m looking to collaborate on Vision/Perception in Machines, Automation and Autonomous system!!
 - 📫 How to reach me via linkedIN! https://www.linkedin.com/in/vinayak-patil-b24137185
-
- <!---Display picture on right--->
-<img align="right" src="https://i.pinimg.com/originals/05/3c/39/053c39f4c14d99d4bc143c05dc3ca219.gif" height="200">
 
 <!---
 vin3697/vin3697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,6 +33,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## Learning is a continous process!!
+ <!---Display picture on right--->
+<img align="right" src="https://i.pinimg.com/originals/05/3c/39/053c39f4c14d99d4bc143c05dc3ca219.gif" height="200">
 
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin3697&show_icons=true&theme=radical)
 
