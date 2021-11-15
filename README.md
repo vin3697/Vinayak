@@ -31,7 +31,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Vinayak's GitHub stats](https://github-readme-stats.vercel.app/api?username=vin3697&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vin3697)](https://github.com/vin3697/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vin3697&layout=compact)](https://github.com/vin3697/github-readme-stats)
+
 
 
 
