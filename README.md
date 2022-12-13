@@ -6,7 +6,7 @@
 
 -    Better Guitarist and good footballer
 - 👀 I’m interested in ROBOTICS/AutunomousSystem/Automation
-- 🌱 I’m currently learning ROS/Computer-Vision and working on a robot for vSLAM!!
+- 🌱 I’m currently learning ROS1/2 and want to get better in ROBOTICS.
 - 💞️ I’m looking to collaborate on Vision/Perception in Machines, Automation and Autonomous system!!
 - 📫 How to reach me via linkedIN! https://www.linkedin.com/in/vinayak-patil-b24137185
 
