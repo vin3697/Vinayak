@@ -5,9 +5,9 @@
     <img src="https://www.beschaeftigte.uni-stuttgart.de/uni-services/oeffentlichkeitsarbeit/corporate-design/cd-dateien/01_Logo/jpg/unistuttgart_logo_de.jpg" height="35" />
 
 -    Better Guitarist and good footballer
-- 👀 I’m interested in ROBOTICS/AutunomousSystem/Automation
-- 🌱 I’m currently learning ROS1/2 and want to get better in ROBOTICS.
-- 🌱 I am focused on learning and getting better at C++, C and Python as Digital skills.
+- 👀 I’m interested in EmbeddedSystem/ROBOTICS/AutunomousSystem/Automation
+- 🌱 I’m currently learning ROS1/2 and want to get better in Embedded System and ROBOTICS.
+- 🌱 I am focused on learning and getting better at Embedded C, C++, C and Python as Digital skills.
 - 💞️ I’m looking to collaborate on Vision/Perception in Machines, Automation and Autonomous system!!
 - 📫 How to reach me via linkedIN! https://www.linkedin.com/in/vinayak-patil-b24137185
 
