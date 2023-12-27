@@ -9,8 +9,7 @@
 - 🌱 I’m currently learning ROS1/2 and want to get better in Embedded System and ROBOTICS.
 - 🌱 I am focused on learning and getting better at Embedded C, C++, C and Python as Digital skills.
 - 💞️ I’m looking to collaborate on Vision/Perception in Machines, Automation and Autonomous system!!
-- 📫 How to reach me via linkedIN! https://www.linkedin.com/in/vinayak-patil-b24137185
-
+- 📫 How to reach me via linkedIN! https://www.linkedin.com/in/vinayak-shobha-patil/
 <!---
 vin3697/vin3697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
